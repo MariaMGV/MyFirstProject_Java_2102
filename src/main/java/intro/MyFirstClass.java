@@ -11,5 +11,5 @@ public class MyFirstClass
 }
 public static void main(String[] args){
     printHello();
-    //pvsm, soutjhnvb
+    //pvsm, soutj
 }
